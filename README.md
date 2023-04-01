@@ -1,5 +1,5 @@
 <span>Hola mi nombre es Javier González 👋
-Programador y Desarrollador Web Backend</span>
+Programador y Desarrollador Web Frontend</span>
 !
 <div align="center">
   <a href="https://github.com/javiergp23">
