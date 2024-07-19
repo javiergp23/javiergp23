@@ -1,5 +1,5 @@
-<span>Hola mi nombre es Javier González 👋
-Programador y Desarrollador Web FullStack</span>
+<span>Hi my name is Javier González 👋
+FullStack Web  Developer </span>
 !
 <div align="center">
   <a href="https://github.com/javiergp23">
