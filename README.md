@@ -18,6 +18,12 @@ Frontend Web Developer </span>
   <img align="center" alt="-SASS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="-express" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="-express" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="-express" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="-express" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
+  <img align="center" alt="-express" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="-express" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
+  <img align="center" alt="-express" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="-express" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
    
 </div>
   
