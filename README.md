@@ -1,5 +1,5 @@
 <span>Hi my name is Javier González 👋
-FullStack Web  Developer </span>
+Frontend Web Developer </span>
 !
 <div align="center">
   <a href="https://github.com/javiergp23">
@@ -22,7 +22,7 @@ FullStack Web  Developer </span>
  
 <div> 
   
-  <a href = "mailto:javgon2306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:javiergonzalezp23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/javier-gonz%C3%A1lez-padilla-725265b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <hr>
  
