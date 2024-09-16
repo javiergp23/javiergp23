@@ -20,7 +20,8 @@ Frontend Web Developer </span>
   <img align="center" alt="-express" height="60" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="-nextjs" height="60" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="-express" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="-express" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original.svg">
+  <img align="center" alt="-express" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="-express" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    
 </div>
   
