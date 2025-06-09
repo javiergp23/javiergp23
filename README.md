@@ -19,6 +19,8 @@ Frontend Web Developer </span>
   <img align="center" alt="-express" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="-nextjs" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="-express" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="-express" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="-express" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
    
 </div>
   
