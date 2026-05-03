@@ -1,5 +1,5 @@
 <span>Hi my name is Javier González 👋
-Frontend Web Developer </span>
+ </span>
 !
 <div align="center">
   <a href="https://github.com/javiergp23">
