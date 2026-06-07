@@ -1,12 +1,7 @@
 <span>Hi my name is Javier González 👋
  </span>
 !
-<div align="center">
-  <a href="https://github.com/javiergp23">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=javiergp23&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergp23&layout=compact&langs_count=7&theme=dark" />
-  </a>
-</div>
+
   <hr>
 <div style="display: inline_block;"><br>
   <img align="center" alt="-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
