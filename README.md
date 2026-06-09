@@ -1,10 +1,10 @@
 <span>
- 👋 Javier González — Data Analyst
- 🔍 Transformando datos en insights accionables
- 🛠️ SQL | Python | Power BI | Tableau
- 📍 Argentina | Open to Remote
+ 👋 Javier González — Data Analyst<br>
+ 🔍 Transformando datos en insights accionables<br>
+ 🛠️ SQL | Python | Power BI | Tableau<br>
+ 📍 Argentina | Open to Remote<br>
  </span>
-!
+
 
   <hr>
 <div style="display: inline_block;"><br>
