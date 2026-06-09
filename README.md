@@ -1,4 +1,8 @@
-<span>Hi my name is Javier González 👋
+<span>
+ 👋 Javier González — Data Analyst
+ 🔍 Transformando datos en insights accionables
+ 🛠️ SQL | Python | Power BI | Tableau
+ 📍 Argentina | Open to Remote
  </span>
 !
 
