@@ -1,7 +1,6 @@
 <span>
- 👋 Javier González — Data Analyst<br>
- 🔍 Transformando datos en insights accionables<br>
- 🛠️ SQL | Python | Power BI | Tableau<br>
+ 👋 Javier González — Fullstack Web Developer<br>
+ 🛠️ Javascript | Node | TypeScript <br>
  📍 Argentina | Open to Remote<br>
  </span>
 
